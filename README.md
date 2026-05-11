@@ -120,4 +120,4 @@ PA2-parte2-computacao-grafica-objetos/
 
 ## 👤 Autor
 
-Desenvolvido por **Matheus Nogueira** — UFN, Computação Gráfica, 2025/1.
+Desenvolvido por **Matheus Nogueira** — UFN, Computação Gráfica, 05/2026
