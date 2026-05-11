@@ -1,4 +1,4 @@
-# Cena 3D OpenGL — Atividade PA2 (Parte 2)
+# Cena 3D OpenGL — Atividade PA2 - Computação Gráfica (Parte 2)
 
 Projeto desenvolvido para a disciplina de **Computação Gráfica** da Universidade Franciscana (UFN).  
 O objetivo é construir uma cena 3D interativa utilizando **OpenGL + Python**, adicionando múltiplos modelos 3D com translações, rotações, escalas e iluminação.
