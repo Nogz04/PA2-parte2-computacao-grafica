@@ -1,11 +1,11 @@
-# 🐱 Cena 3D OpenGL — Atividade PA2 (Parte 2)
+# Cena 3D OpenGL — Atividade PA2 (Parte 2)
 
 Projeto desenvolvido para a disciplina de **Computação Gráfica** da Universidade Franciscana (UFN).  
 O objetivo é construir uma cena 3D interativa utilizando **OpenGL + Python**, adicionando múltiplos modelos 3D com translações, rotações, escalas e iluminação.
 
 ---
 
-## 🎮 A Cena
+## 🎮 A Cena - Pré-View
 
 A cena contém os seguintes objetos:
 
@@ -15,6 +15,12 @@ A cena contém os seguintes objetos:
 | 🐱 **Gato** | `OBJS/Cat/Cat.obj` | Centro da cena |
 | 😺 **Garfield** | `OBJS/Garfield/20430_Cat_v1_NEW.obj` | Esquerda |
 | 🐢 **Tartaruga** | `OBJS/Tartaruga/13103_pearlturtle_v1_l2.obj` | Direita |
+
+<img width="783" height="587" alt="Captura de tela de 2026-05-10 21-14-54" src="https://github.com/user-attachments/assets/a76db582-4e9f-48a1-af8d-f1190a2e4c10" />
+
+<img width="783" height="587" alt="Captura de tela de 2026-05-10 21-15-13" src="https://github.com/user-attachments/assets/c80314a4-cd5d-4b2d-a109-0db952ac645a" />
+
+<img width="783" height="587" alt="Captura de tela de 2026-05-10 21-15-35" src="https://github.com/user-attachments/assets/6000fa40-7cf5-4988-be26-1f1b00ebad3e" />
 
 Todos os objetos possuem translações, rotações e escalas individuais, e a cena conta com um **chão de grama texturizado** e **duas fontes de luz** (branca e azulada).
 
